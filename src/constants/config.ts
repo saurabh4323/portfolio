@@ -67,7 +67,7 @@ export const config: TConfig = {
     about: {
       p: "Introduction",
       h2: "Overview.",
-      content: `"I'm a skilled developer with expertise in building websites, developing blockchain solutions, tackling DSA, and working with cloud computing. I excel at creating efficient, scalable, and user-friendly solutions while collaborating closely with clients to solve real-world problems. Let's bring your ideas to life!"`,
+      content: `"I'm a skilled developer with expertise in building websites, developing the DevJunkie  library for Next.js, tackling DSA, and working with cloud computing. I excel at creating efficient, scalable, and user-friendly solutions while collaborating closely with clients to solve real-world problems. Let's bring your ideas to life!"`,
     },
     experience: {
       p: "What I have done so far",

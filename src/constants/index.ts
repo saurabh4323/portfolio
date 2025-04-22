@@ -321,6 +321,62 @@ const projects: TProject[] = [
     image: "https://devfolio-prod.s3.ap-south-1.amazonaws.com/hackathons/98a159f527e840e99207cfeac49347b5/projects/b6bfc7fb47af45d6b6f08b6db3434f3f/d4f1f3cf-08c8-4ef3-bde5-5533b73b0e0a.jpeg",
     sourceCodeLink: "https://github.com/saurabh4323/sih",
   },
+   {
+    name: "chocolate Day",
+    description:
+      "Celebrate Chocolate Day with sweetness and love – indulge in the finest handcrafted treats, explore irresistible flavors, and share the joy of chocolate with your loved ones!",
+    tags: [
+      {
+        name: "NextJs",
+        color: "blue-text-gradient",
+      },
+           {
+        name: "tailwind",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWqaIf-Iwu82vWaSmSwbxsNPcz5EmU-inY7Q&s",
+    sourceCodeLink: "https://github.com/saurabh4323/choclateday",
+  },
+     {
+    name: "Private Image",
+    description:
+      "Securely upload and store your private images with ease – leverage the power of React and Trapi for seamless cloud storage",
+    tags: [
+      {
+        name: "React.Js",
+        color: "blue-text-gradient",
+      },
+           {
+        name: "Strapi",
+        color: "green-text-gradient",
+      },
+      {
+        name: "Clerk",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWqaIf-Iwu82vWaSmSwbxsNPcz5EmU-inY7Q&s",
+    sourceCodeLink: "https://github.com/saurabh4323/choclateday",
+  },
+     {
+    name: "sorting Visual",
+    description:
+      "Sort with ease and visualize your data like never before – experience the power of interactive sorting algorithms, where every step comes to life in real time! ",
+    tags: [
+      {
+        name: "React.Js",
+        color: "blue-text-gradient",
+      },
+   
+      {
+        name: "CSS",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: "https://cdn.prod.website-files.com/606a802fcaa89bc357508cad/6123c034286044167618b263_7.png",
+    sourceCodeLink: "https://github.com/saurabh4323/sorting-visual",
+  },
 ];
 
 export { services, technologies, experiences, testimonials, projects };

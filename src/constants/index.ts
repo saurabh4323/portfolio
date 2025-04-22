@@ -174,6 +174,27 @@ const testimonials: TTestimonial[] = [
 ];
 
 const projects: TProject[] = [
+     {
+    name: "skillo",
+    description:
+      "An AI-powered career platform designed for fast hiring and real student growth. Powered by Next.js, Google OAuth, Cloudinary, AWS S3, and more! ",
+    tags: [
+      {
+        name: "NextJs",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "mongodb",
+        color: "green-text-gradient",
+      },
+      {
+        name: "tailwind",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: "https://www.jobsoid.com/wp-content/uploads/2024/01/write-a-unique-job-description.png",
+    sourceCodeLink: "https://github.com/saurabh4323/jobmmatcher",
+  },
     {
     name: "DevJunkie",
     description:

@@ -174,6 +174,27 @@ const testimonials: TTestimonial[] = [
 ];
 
 const projects: TProject[] = [
+    {
+    name: "DevJunkie",
+    description:
+      "DevJunkie is a developer community offering high-quality UI components, a marketplace to buy and sell projects, and a space to collaborate with like-minded professionals. ",
+    tags: [
+      {
+        name: "NextJs",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "mongodb",
+        color: "green-text-gradient",
+      },
+      {
+        name: "tailwind",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: "https://thefalc.com/wp-content/uploads/2021/12/developer-community-2.jpg",
+    sourceCodeLink: "https://github.com/saurabh4323/DevJunkie",
+  },
   {
     name: "Moodli",
     description:

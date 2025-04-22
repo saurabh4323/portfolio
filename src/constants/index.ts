@@ -321,6 +321,28 @@ const projects: TProject[] = [
     image: "https://devfolio-prod.s3.ap-south-1.amazonaws.com/hackathons/98a159f527e840e99207cfeac49347b5/projects/b6bfc7fb47af45d6b6f08b6db3434f3f/d4f1f3cf-08c8-4ef3-bde5-5533b73b0e0a.jpeg",
     sourceCodeLink: "https://github.com/saurabh4323/sih",
   },
+
+     {
+    name: "HiddChat",
+    description:
+      "Experience anonymous conversations with HiddenChat: secure , make friends, private messaging powered by React, Node, Express, and MongoDB.",
+    tags: [
+      {
+        name: "NextJs",
+        color: "blue-text-gradient",
+      },
+           {
+        name: "tailwind",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: "https://miro.medium.com/v2/resize:fit:1400/1*LSCP0zlvtx-QMW8IwYm2fw.jpeg",
+    sourceCodeLink: "https://github.com/saurabh4323/Hiddchat",
+  },
+
+
+
+  
    {
     name: "chocolate Day",
     description:
@@ -356,8 +378,8 @@ const projects: TProject[] = [
         color: "pink-text-gradient",
       },
     ],
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWqaIf-Iwu82vWaSmSwbxsNPcz5EmU-inY7Q&s",
-    sourceCodeLink: "https://github.com/saurabh4323/choclateday",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLMbn2g5ccN-HwXIPreRL_0f8OkRyeJd9u8w&s",
+    sourceCodeLink: "https://github.com/saurabh4323/sorting-visual",
   },
      {
     name: "sorting Visual",

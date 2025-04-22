@@ -50,7 +50,7 @@ const services: TService[] = [
     icon: web,
   },
   {
-    title: "Blockchain Developer",
+    title: "DevJunkie Builder",
     icon: mobile,
   },
   {

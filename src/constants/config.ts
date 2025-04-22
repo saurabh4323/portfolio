@@ -46,7 +46,7 @@ export const config: TConfig = {
   },
   hero: {
     name: "Saurabh Singh",
-    p: ["I build modern UI-UX  websites, develop blockchain , tackle DSA, and work with cloud computing."],
+    p: ["I specialize in crafting modern UI/UX websites, developing the DevJunkie UI library for Next.js, solving DSA challenges, and working with cloud computing technologies."],
   },
   contact: {
     p: "Get in touch",
